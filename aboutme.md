@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Curriculum Vitae
+subtitle: Live to the point of tears
 ---
 
 My name is Inigo Montoya. I have the following qualities:
