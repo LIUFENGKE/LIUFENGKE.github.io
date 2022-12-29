@@ -4,13 +4,15 @@ title: Curriculum Vitae
 subtitle: Live to the point of tears
 ---
 
-My name is Fengke Liu(刘风克). Or you can call my english name Kevin. The following is my basic information:
+My name is Fengke Liu (刘风克). Or you can call my english name Kevin. The following is my basic information:
 
 - I am studying Statistics in Korea University.
-- I'm
+- I am living in Seoul now.
+- I am into cooking, traveling and reading books.
 
-What else do you need?
 
-### My story
+Attached Files:
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- This is my Academic CV
+- This is my job-seeking CV
+
