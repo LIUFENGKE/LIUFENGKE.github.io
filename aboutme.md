@@ -4,10 +4,10 @@ title: Curriculum Vitae
 subtitle: Live to the point of tears
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Fengke Liu(刘风克). Or you can call my english name Kevin. The following is my basic information:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I am studying Statistics in Korea University.
+- I'm
 
 What else do you need?
 
