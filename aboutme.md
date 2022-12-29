@@ -13,6 +13,6 @@ My name is Fengke Liu (刘风克). Or you can call my english name Kevin. The fo
 
 Attached Files:
 
-- This is my Academic CV
+- This is my [Academic CV](docs/CV.pdf)
 - This is my job-seeking CV
 
